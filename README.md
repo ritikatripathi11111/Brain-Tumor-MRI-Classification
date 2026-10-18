@@ -228,6 +228,16 @@ The application currently uses the saved Custom CNN model and its class-label ma
 
 **Important:** The displayed model score is not a calibrated medical probability. A high score does not confirm the presence or absence of a tumor.
 
+## 📸 Application Screenshots
+
+### Home Page
+
+![Application Homepage](screenshots/homepage.png)
+
+### Prediction Result
+
+![MRI Classification Result](screenshots/prediction-result.png)
+
 ## ⚠️ Limitations and Future Improvements
 
 ### Current Limitations
@@ -246,6 +256,16 @@ The application currently uses the saved Custom CNN model and its class-label ma
 - Perform external validation on an independent dataset.
 - Improve inference logging, error handling, and automated testing.
 - Consider model calibration and uncertainty estimation for research purposes.
+
+## 🚀 Live Demo
+
+**Try the deployed application:**  
+[Brain Tumor MRI Classification — Live App](https://brain-tumor-mri-classification-xptm4b2fgpzw6nf6mw2uqz.streamlit.app)
+
+**Source Code:**  
+[GitHub Repository](https://github.com/ritikatripathi11111/Brain-Tumor-MRI-Classification)
+
+Upload an MRI image to view the model's predicted class and confidence scores.
 
 ## ⚕️ Disclaimer
 
