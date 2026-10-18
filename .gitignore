@@ -1,0 +1,15 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.env
+
+# Dataset
+Tumour/
+
+# Training outputs and logs
+logs/
+*.log
